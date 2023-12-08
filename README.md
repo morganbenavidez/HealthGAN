@@ -1,2 +1,2 @@
 # HealthGAN
-Identifying abnormalities in from Chest X-Rays
+Identifying abnormalities from Chest X-Rays
